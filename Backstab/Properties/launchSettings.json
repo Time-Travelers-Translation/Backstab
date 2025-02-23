@@ -1,8 +1,0 @@
-{
-  "profiles": {
-    "Backstab": {
-      "commandName": "Project",
-      "commandLineArgs": "D:\\Users\\Kirito\\Desktop\\reverse_engineering\\time_travelers\\psp\\game_files\\retail\\patch_work\\original_extract\\psp\\script\\event\\story01_14-15\\A01A_0000a.stb"
-    }
-  }
-}
