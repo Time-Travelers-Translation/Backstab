@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Backstab", "Backstab\Backstab.csproj", "{483468EF-E033-445C-A976-8BB5E1FA1D99}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{91478879-C7C9-4483-B804-AD617394CC84}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{483468EF-E033-445C-A976-8BB5E1FA1D99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{483468EF-E033-445C-A976-8BB5E1FA1D99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{483468EF-E033-445C-A976-8BB5E1FA1D99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{483468EF-E033-445C-A976-8BB5E1FA1D99}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7DD53DCC-9B90-4C04-A85A-7A6A5483D9D7}
+	EndGlobalSection
+EndGlobal
